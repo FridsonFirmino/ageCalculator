@@ -1,12 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
-import {Text, View } from 'react-native';
+import Home from './src/app';
 
 export default function App() {
   return (
-    <View style={{flex:1}}>
-      <Text>Voltamos!!!</Text>
+    <>
+      <Home/>
       <StatusBar style="auto" />
-      </View>
+    </>
   );
 }
 
