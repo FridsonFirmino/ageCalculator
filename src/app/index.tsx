@@ -11,6 +11,7 @@ export default function Home(){
       <Text>AGE-CALCULATOR</Text>
       <Text>AGE-CALCULATOR</Text>
       <Text>AGE-CALCULATOR</Text>
+      <Text>AGE-CALCULATOR</Text>
     </View>
   )
 }
