@@ -7,6 +7,8 @@ export default function Home(){
       <Text className="text-white">HomeScreen</Text>
       <Text>AGE-CALCULATOR</Text>
       <Text>AGE-CALCULATOR</Text>
+      
+      <Text>AGE-CALCULATOR</Text>
     </View>
   )
 }
